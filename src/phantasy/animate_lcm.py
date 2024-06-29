@@ -1,0 +1,2 @@
+def alcm(prompt, duration):
+    
